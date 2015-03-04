@@ -1,0 +1,15 @@
+{
+    "name": "clark/phpunit-selenium-tests",
+    "description": "Testing PhpUnit functionality with Selenium and PhantomJs",
+    "authors": [
+        {
+            "name": "Clark Stuth",
+            "email": "clarkstuth@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"phpunit/phpunit": "~4.5.0",
+	"phpunit/phpunit-selenium": "~1.4.2"
+    }
+}
